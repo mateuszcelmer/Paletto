@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paletto</string>
+    <string name="info_when_empty">Add a picture</string>
+    <string name="info_when_notempty">Choose picture</string>
+</resources>
